@@ -1,0 +1,18 @@
+[
+    {
+        "title": "home",
+        "link": "/"
+    },
+    {
+        "title": "nasabah",
+        "link": "/nasabah"
+    },
+    {
+        "title": "sampah",
+        "link": "/sampah"
+    },
+    {
+        "title": "transaction",
+        "link": "/transaction"
+    }
+]
