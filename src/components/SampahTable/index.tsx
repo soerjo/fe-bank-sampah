@@ -29,7 +29,7 @@ const SampahTable: React.FC<ISampahTable> = ({ data_nasabah }) => {
     return (
         <>
             {/* <h1 className='text-2xl font-semibold text-left'>Sampah</h1> */}
-            <Card className="w-full h-5/6 overflow-auto">
+            <Card className="w-full h-4/6 overflow-auto">
                 <table className="w-full min-w-max table-auto text-left">
                     <thead>
                         <tr>

@@ -39,7 +39,7 @@ interface INasabahTable {
 const NasabahTable: React.FC<INasabahTable> = ({ data_nasabah }) => {
     return (
         <>
-            <Card className="w-full h-5/6 overflow-auto">
+            <Card className="w-full h-4/6 overflow-auto">
                 <table className="w-full min-w-max table-auto text-left">
                     <thead>
                         <tr>

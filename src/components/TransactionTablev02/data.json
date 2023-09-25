@@ -1,0 +1,23 @@
+{
+    "nasabah_created": "2023-09-23T05:47:46.530Z",
+    "nasabah_fullname": "suryo hastomo",
+    "nasabah_id": "81643e9c-e11c-485f-9f82-77f8aac11737",
+    "nasabah_phone": "087808295838",
+    "nasabah_rt": "13",
+    "nasabah_rw": "01",
+    "nasabah_updated": "2023-09-24T23:02:26.512Z",
+    "nasabah_username": "pak_soerjo",
+    "transaction_admin_fee": "0",
+    "transaction_created": "2023-09-24T07:57:18.431Z",
+    "transaction_created_time": "1695567438429",
+    "transaction_id": "06ff263e-5563-4bf8-8a79-dccab0a1c2ca",
+    "transaction_nasabahId": "81643e9c-e11c-485f-9f82-77f8aac11737",
+    "transaction_sampah_category": "PLASTIK",
+    "transaction_sampah_name": "BODONK B",
+    "transaction_sampah_price": "0",
+    "transaction_total_sampah_price": "0",
+    "transaction_total_transaction": "0",
+    "transaction_transaction_type": "DEPOSIT/TABUNG",
+    "transaction_updated": "2023-09-24T07:57:18.431Z",
+    "transaction_weight": "3"
+}

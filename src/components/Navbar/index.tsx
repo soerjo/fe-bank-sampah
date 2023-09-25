@@ -1,7 +1,7 @@
 'use client'
 
 import React from 'react'
-import { Typography, Button, IconButton, MobileNav, Navbar } from '@material-tailwind/react';
+import { Typography, Button, IconButton, MobileNav, Navbar, Collapse } from '@material-tailwind/react';
 
 import listMenu from './page.json'
 
@@ -94,12 +94,12 @@ const NavbarComponent = () => {
                     </IconButton>
                 </div>
             </div>
-            <MobileNav open={openNav}>
+            <Collapse open={openNav}>
                 {navList}
                 <Button variant="gradient" size="sm" fullWidth className="mb-2">
                     <span>Log In</span>
                 </Button>
-            </MobileNav>
+            </Collapse>
         </Navbar>
     )
 }
